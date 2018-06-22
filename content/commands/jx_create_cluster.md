@@ -38,6 +38,7 @@ Depending on which cloud provider your cluster is created on possible dependenci
   * gcloud (Google Cloud CLI)  
   * oci (Oracle Cloud Infrastructure CLI)  
   * az (Azure CLI)  
+  * oci (Oracle Cloud Infrastructure CLI)
 
 For more documentation see: https://jenkins-x.io/getting-started/create-cluster/
 

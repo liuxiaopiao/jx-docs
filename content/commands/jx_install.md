@@ -70,7 +70,7 @@ jx install [flags]
       --no-brew                             Disables the use of brew on MacOS to install or upgrade command line dependencies
       --no-default-environments             Disables the creation of the default Staging and Production environments
       --on-premise                          If installing on an on premise cluster then lets default the 'external-ip' to be the kubernetes master IP address
-      --provider string                     Cloud service providing the kubernetes cluster.  Supported providers: aks, aws, eks, gke, ibm, jx-infra, kubernetes, minikube, minishift, oce, openshift, pks
+      --provider string                     Cloud service providing the kubernetes cluster.  Supported providers: aks, aws, eks, gke, ibm, jx-infra, kubernetes, minikube, minishift, openshift, oce, pks
       --recreate-existing-draft-repos       Delete existing helm repos used by Jenkins X under ~/draft/packs
       --register-local-helmrepo             Registers the Jenkins X chartmuseum registry with your helm client [default false]
       --skip-ingress                        Dont install an ingress controller
